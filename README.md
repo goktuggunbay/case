@@ -1,2 +1,1 @@
-# case
-Orte Company
+Uygulama Node.js ile sunucu kurularak yapılmıştır. index.js başlatarak sunucu oluşturabilirsiniz. node index.js komutuyla sunucuyu başlatabilirsiniz, port 3000'dir. Cart verilerini cookie olarak tutmayı tercih etmedim. CheckOut işleminden sonra kayıt verileri js/order.js dosyasına kaydedilmektedir.

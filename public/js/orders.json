@@ -1,0 +1,14 @@
+{
+  "orders": [
+    {
+      "eS6pIM": [
+        {
+          "productName": "Prod1",
+          "quantity": "2"
+        }
+      ],
+      "finalPriceValue": "3000",
+      "isChecked": "false"
+    }
+  ]
+}
